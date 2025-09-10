@@ -11,3 +11,5 @@ You are strictly prohibited from using this code to target individuals, networks
 
 By using this code, you agree to comply with all applicable laws and ethical standards.
 Use at your own risk.
+
+<img width="656" height="420" alt="image" src="https://github.com/user-attachments/assets/e7136560-86d9-4642-9978-19117ad3aaf9" />
