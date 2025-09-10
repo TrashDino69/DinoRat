@@ -1,0 +1,12 @@
+webhookURL=aY8c+8lFNRWsqS1w24HMsI4nCHXxYIrQsGSh9zYwreLhfemq2TBNOpAMw9vHvy7/xrvNj/Jhj6OzQU4H69/Cz3HkuKzcoKZ9G705MRZtcUdncHkc08XcR9j9G0jMnf0bLEnTi9z871orkNFrCVAk/VLVDCiXp566bQ==
+webhookKEY=Aftoi7p/GjrIwF4TtPOonu1IZVqQEOP/xwHDn1lfxpHOTN2a7QJ4DaY7++nwiR7M/oz7uN01/8n9ACpTjpP1gzSV7siQ+ssKYc8UYHc8SDIyNx1FkfSGGL27SCKUxaluYCqJveifqy1doYggemJuryiTblLb18vxKw==
+ipURL=Z0NDMxN/hfL5ILDmGoSdMNxDFCzqyBr9cMNhRIHi
+ipKEY=Dzc3Q2BFqt2aSNWFce3tHr0udVaFpnuKA+0CK+zN
+sessionURL=lVpHirTmBOpmUdg/Vw==
+sessionKEY=8y8p6evXNdpSYupgHg==
+nameURL=BkmqaSW/wWPsLRrOGw==
+nameKEY=YDzECnqO8FLeFS+Reg==
+uuidURL=SnBPQTaI2GONzfx0kw==
+uuidKEY=LAUhImm57Fu/+Mkr8Q==
+tokenURL=Zo6SM5o0B6H771uVDw==
+tokenKEY=APv8UMUFNpDJ123KbQ==
